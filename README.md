@@ -17,21 +17,6 @@ Development Environment: JDK 8 or later
 Tools: Git and GitHub
 Update the technologies list according to the libraries and tools you have actually used.
 
-📂 Project Structure
-VITYARTHI-PROJECT-2/
-│
-├── src/
-│   └── Main.java
-│
-├── data/
-│   └── dataset.csv
-│
-├── README.md
-│
-└── report/
-    └── Project_Report.pdf
-Modify this structure to match your actual project files.
-
 ⚙️ Requirements
 Before running the project, make sure you have:
 
